@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Piotr Gorski",
+    "occupation": "Aspiring Software Developer",
+    "description": "HTML, CSS, JavaScript, ReactJS, GitHub, SASS, Bootstrap and more..",
+    "image": "profilepic.jpg",
+    "bio": "Aspiring Software Developer with a master's degree in Electrical Engineering and 3 years of experience commissioning and maintaining machinery in the automation/logistics industry. As a self-taught developer, I took advantage of my free time during the pandemic to complete a Front End Development Course and build multiple web applications. Now looking for a role where I can continue learning and do what I am passionate about: coding.",
+    "contactmessage": "Get in touch with me!",
+    "email": "gorskipiotr5@gmail.com",
+    "address": {
+      "city": "St. Neots",
+      "state": "Cambridgeshire"
+      
+    },
+    "website": "https://www.google.com/",
+    "resumedownload": "https://drive.google.com/file/d/1B1hn_MsXe1O20TwSElARPEuQSqivHopo/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gorskipiotr5/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gorski-piotr",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Akademia 108 - Poland",
+        "degree": "Front End Developer Course",
+        "graduated": "2021",
+        "description": "225 hours of classes in the form of practical workshops preparing for work as a Front-End Developer. A range of topics: HTML5, CSS3, JavaScript, ReactJS, jQuery, RWD, Bootstrap, AJAX, SASS, GIT, WordPress."
+      },
+      {
+        "school": "Poznan University of Technology - Poland",
+        "degree": "Master of Science in Electrical Engineering",
+        "graduated": "2017-2018",
+        "description": "Specialisation: High Voltage Engineering"
+      },
+      {
+        "school": "Poznan University of Technology - Poland",
+        "degree": "Bachelor of Science in Power Engineering",
+        "graduated": "2012-2016",
+        "description": "Specialisation: Electrical Power Engineering"
+      }
+    ],
+    "work": [
+      {
+        "company": "SSI Schaefer - UK",
+        "title": "Residence Maintenance Engineer",
+        "years": "2020 - Present",
+        "description": "Day-to-day engineering maintenance of the fully automated logistic centre, providing technical expertise, improving, and solving system problems."
+      },
+      {
+        "company": "SSI Schaefer - Poland",
+        "title": "PLC Programmer / Commissioning engineer",
+        "years": "2018 - 2020",
+        "description": "Commissioning and testing of the SSI Carrier System. Documentation of commissioning progress. Programming and optimisation of existing software concepts. Performing on-site performance tests."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "React.js",
+        "level": "75%"
+      },
+      {
+        "name": "GitHub",
+        "level": "80%"
+      },
+      {
+        "name": "And more in progress...",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Front End Clone (React JS)",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://amazon-clone-gorski-piotr.vercel.app/"
+      },
+      {
+        "title": "Weather Check App",
+        "category": "",
+        "image": "weather.jpg",
+        "url": "https://pg-weather-check.netlify.app/"
+      },
+      {
+        "title": "SPA & Beauty Center",
+        "category": "",
+        "image": "spa.jpg",
+        "url": "https://gorski-piotr.github.io/project-spa/"
+      },
+      {
+        "title": "Bootstrap Landing Page",
+        "category": "",
+        "image": "bootstrap.jpg",
+        "url": "https://gorski-piotr.github.io/zadania-domowe/08-Bootstrap/03-landing-page/"
+      }
+    ]
+  }
+}
